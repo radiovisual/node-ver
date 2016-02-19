@@ -1,7 +1,6 @@
 'use strict';
 module.exports = function () {
-	var ver = process.version;
-	ver = ver.replace(/^v/i, '');
+	var ver = process.version.replace(/^v/i, '');
 
 	var semver = ver.split('.');
 
