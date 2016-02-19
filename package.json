@@ -1,6 +1,6 @@
 {
   "name": "node-ver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get your environment's active version of node.",
   "license": "MIT",
   "repository": "radiovisual/node-ver",
